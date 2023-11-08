@@ -3,8 +3,8 @@
     <style name="Base.Theme.TrendDesign" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
-        <item name="colorPrimary"></item>
-        <item name="colorPrimaryVariant">#130041</item>
+        <item name="colorPrimary">@color/crypto_main</item>
+        <item name="colorPrimaryVariant">@color/crypto_main</item>
     </style>
 
     <style name="Theme.TrendDesign" parent="Base.Theme.TrendDesign" />

@@ -1,8 +1,10 @@
-package com.app.trenddesign;
+package com.app.trenddesign.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.app.trenddesign.R;
 
 public class MainActivity extends AppCompatActivity {
 
