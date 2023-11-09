@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
         lineData3.add(1000);
         lineData3.add(1100);
         lineData3.add(1000);
+        lineData3.add(1150);
 
         cryptoWalletArrayList.add(new CryptoWallet("bitcoin", "BTX", 1234.12, 2.13, lineData, 1234.12, 0.12343));
         cryptoWalletArrayList.add(new CryptoWallet("etherium", "ETH", 4523.12, -1.13, lineData2, 6845.12, 0.01245));
